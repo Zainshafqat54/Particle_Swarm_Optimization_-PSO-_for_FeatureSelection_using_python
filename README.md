@@ -26,7 +26,7 @@ The PSO algorithm is implemented from scratch using the following steps:
 
 ## Usage
 
-To run the code, simply open the `Particle-_Swarm_Optimization-PSO-_for_Feature_Selection` Jupyter Notebook and run the cells in order.
+To run the code, simply open the `Particle_Swarm_Optimization_(PSO)_for_FeatureSelection_using_python` Jupyter Notebook and run the cells in order.
 
 ## Results
 
